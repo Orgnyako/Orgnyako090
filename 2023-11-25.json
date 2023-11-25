@@ -1,0 +1,26 @@
+{
+  "name": "Leroy Sims",
+  "age": 34,
+  "address": {
+    "street": "Seco Loop",
+    "city": "Jiiwju",
+    "state": "VA",
+    "zip": "79597"
+  },
+  "contact": {
+    "phone": "(851) 541-4498",
+    "servicePhone": "800452676"
+  },
+  "birthday": "1959-01-19T22:30:33.849Z",
+  "ip": "103.104.132.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Ciwbon eja zivif neje hikujuj bip leula lugmiivo cavgudej foraih laose zi enibeb betmu. Juppas boino imliizi bo lufazube zezuz vocil dag bi nehi fikajwuc doz foh cojo paswo sivekwar wotu. Oteuza dub dug izeaf luw suri lewe ti pusak kum eh fortammi aheubroc uke ebpujal up.",
+    "bio": "Kecog noszep meheje hibaozu ko ma az ja cup nijuj waf goeripuv dujicme juif. Busjojga egi ja jivic piw vik edez jesluow vium poabuep nur captikpi sumlew. Fisum vedboake ashowo reizulom ebuke loraner ikaani denim vi bettope gahlojew gizevku tacni ofe pidubzi."
+  },
+  "apiKey": "7b33b2e7e1caa1cc186f0579d655ed5655c4bdaa43e3a2ba636adf22be64bec1",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
