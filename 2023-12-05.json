@@ -1,0 +1,26 @@
+{
+  "name": "Clifford Carlson",
+  "age": 64,
+  "address": {
+    "street": "Kuzozi Square",
+    "city": "Ruzdevin",
+    "state": "ND",
+    "zip": "01506"
+  },
+  "contact": {
+    "phone": "(949) 582-5864",
+    "servicePhone": "800575823"
+  },
+  "birthday": "1977-04-16T03:35:25.795Z",
+  "ip": "193.136.131.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Semko es sahvuf ohaporza ku fownuapi uc do ugu guwit bemku wukwaep uni azu. Bot pez le kiggi mokwomsu zejupkej kabak ehu ip ug tuas kocaf suvos ec emo. Sager ve vakitje la nowvan mi abavep mu behvuwec fuf vahmi fakji.",
+    "bio": "Ga re hinpahcir nodit cuh puvile umiba odpumrap puzufeb dovvut kovosumi pulijep anevu meppudow to zip. Avfa ugedeise runhir modrahcub sizgap ki sujitom do kapzikij opsibo ejoka kolalnuf. Bakgeafo atujgus nah faj ki em se ku we refemepo cigiwvev ze ipoba fezod. Etemiafe hobduki nit ap zoc muvduhsi dotemeha ogwe zezewun emama gofevi degu doserul celotu ca molheune da valkavuv."
+  },
+  "apiKey": "7db05c260d31bac3be47e71ef0473327a3f27a3071d9074636afddf2355ef307",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
