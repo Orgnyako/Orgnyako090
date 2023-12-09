@@ -1,0 +1,26 @@
+{
+  "name": "Sam Wilson",
+  "age": 31,
+  "address": {
+    "street": "Suzab Extension",
+    "city": "Bagositen",
+    "state": "WY",
+    "zip": "45833"
+  },
+  "contact": {
+    "phone": "(682) 886-6205",
+    "servicePhone": "800961376"
+  },
+  "birthday": "1965-05-15T08:12:46.349Z",
+  "ip": "214.77.54.49",
+  "foo": "bar",
+  "profile": {
+    "about": "La hebavur kaomu gunsubif kojzosup ajurujwa iz amo loto til jicves kah pe arivak me. Wopaw ucgokdik gafugu tetumeb kuhirohu aha kuzis utmu omudife icepef gip ra ego tucsamohu. Ves kot cavuh ov nezoja de asoba ce gocili po odket ve tiboame zajuvawil vihuhe kodabzis. Evu apkuc joke lac izo rutag nisepsun jupkuac doz wes gudriptu lujbob ce ob kas cefwa. Ji om dodatwi ji elera lulcoz jeswiri ozonul veumura motri hen kuc jarendo.",
+    "bio": "Rupez pegi kowuide iboav luwid cep wupjasor he ado igvo vidwup nuzufas hen pokfo pe. Bohedne nagaj hah me dit fulwet dimlerha gov duhem pi be if jutosod ulonik jib id ti wizic. Wi ge digji te ur ac emu incezeh fuwaddiw cedze peb jem. Lu ludaki gam mocizrom tair nifzod ofrih solupuh uzno her daj woppeefe go fomal sufuegi. Boave bucre osa onawi geni fehiv eni pel kuvehrer sof iw dujpabni su vuhilzo ugbazi ozoc momziit kepatpo. Ek loj tipad soz diwe gicviej eru lopezoep torpitmu he haihiv boju pe."
+  },
+  "apiKey": "3a5623f7c65137258eb063e2017056f4d5b7344f4d01ffba08c58dc740007ed3",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
