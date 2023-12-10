@@ -1,0 +1,26 @@
+{
+  "name": "Hilda Pena",
+  "age": 36,
+  "address": {
+    "street": "Poka Lane",
+    "city": "Naveju",
+    "state": "OR",
+    "zip": "73913"
+  },
+  "contact": {
+    "phone": "(721) 686-3253",
+    "servicePhone": "800464863"
+  },
+  "birthday": "1972-12-21T09:00:27.141Z",
+  "ip": "219.8.78.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Sobe daraliki ku le feliban muw onwigo fomure de cace ro merigeg tehlap. Lilasef pabowo vularge pateji mocesoh jekabvog kekkespa kinivduj juki emosu zek maputi gola. Vidbacwa mok kipakpa pa tabhuru go lotdi nokehihe ashu la bebed avdadi an tehvi tecnircuj wipli wirewa.",
+    "bio": "Wagge jadoj rapemej ad zato raw gapkotpu we vaha ushud ruvuopi uz de har. Soup me afoame gur uwvi pazolnel su hazogjaj vo dameve gozadem ne. Voc erotenip fibmocus mo buolhuh rimhajsuj ugwocva gebetzip ciw azvo libov guspubir ehliv."
+  },
+  "apiKey": "806f1e6ece02843ae2c328702c4d90af2601ac99ae9739f94949447a07c0b312",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
