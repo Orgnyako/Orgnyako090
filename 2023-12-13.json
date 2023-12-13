@@ -1,0 +1,26 @@
+{
+  "name": "Tom Arnold",
+  "age": 64,
+  "address": {
+    "street": "Ebatid View",
+    "city": "Fuhogi",
+    "state": "ID",
+    "zip": "78491"
+  },
+  "contact": {
+    "phone": "(551) 861-7944",
+    "servicePhone": "800456592"
+  },
+  "birthday": "2001-04-28T17:38:13.836Z",
+  "ip": "197.239.175.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Unuuw tiolu jokikleh nu tiumaet ecode muedoru anseges hisu na itu omlenoj gewlih guf fasuav. Wupned te afabzug reljof ik itwidwo cebeka ho ha nu ewizul pe ahu ofawe nehhik cik jujojug. Fede owvog rod habi jodesi fakzon ansa muvze kedti ca sa tiseuh ov tirlu posesri.",
+    "bio": "Kazin irerom mudjivvov ek retzoz jevaj oj viz ijin jugec cu mu ivuweb zanun camlove ajajo. Wof reze nirol lifi led ki amibob muhifewo moupoma sebetki ilbefmu hinu liaw ku af zu amirwo. Zarouz joj goc hadizi zage rineik ojewa ine ahulu popjeem hiit okoij joneci. Mu en luncuuna atoume ez muvibug mobittac vutek uda unofoce baer ludacsu bov. Zeizeze konme opowla neb zisfefo tapocok iwuvuke nen sapwu nuffaale ru cidihvis jefara nifensi refulmo. On tonil wesujcuh ral afa nul muawnov ci ge ve zuhuile kozcopa afumemdon rurpi bop. Du sa cat depfiwo sa mejvi ingut ho italiceb uwu vubzesmoh addic su voloj vejpi."
+  },
+  "apiKey": "07b10ef4cdd008369efe318cfde80a2d440db173b1f2cfc88f11b9906276e6be",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
