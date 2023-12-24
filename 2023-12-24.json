@@ -1,0 +1,26 @@
+{
+  "name": "Grace Lane",
+  "age": 25,
+  "address": {
+    "street": "Gufar Key",
+    "city": "Ijeokewo",
+    "state": "DC",
+    "zip": "08022"
+  },
+  "contact": {
+    "phone": "(573) 731-6566",
+    "servicePhone": "800515916"
+  },
+  "birthday": "1985-02-04T15:33:27.079Z",
+  "ip": "76.89.74.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Weezbi cagacgoh daoco tobmefuk banci ozabadat jan kilgufef ko vi bo videb. Ihbomoh ho dose he ju le wosukaw radilare manba miidu ugikulek mufpimo pow tudidgu nasaceare uje. Ha mosor bam jifsatno farsib tuuh mumnun aganmem ac cijozir pu gor abfufu vado ba aj.",
+    "bio": "Vuadmo labic vat tev kaowi tiduvec pafo punlagne ge jojuge iraradoge ra. Teogu evu he muji go ivu ufutopa sa igkem sivla nazupzev gu ekoza jirolujo akahu rifeto pucoowe masbobiwu. Kasu cuhapeg zejichog facnahew sikitkak bir efeho zim nezcadgez menowmow ade jifpophi. Ihsi tajo rod vidakek kuogeado to ikzaasu baktaus dawbaho gofla pipevler to rene jinap po fazujme jinfon riwe."
+  },
+  "apiKey": "6e28eca28b6a0ff7aed34785e4b47b40c14a2cff38ed652c2d2c2c4f5eb58381",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
