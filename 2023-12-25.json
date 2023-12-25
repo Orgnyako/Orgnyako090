@@ -1,0 +1,26 @@
+{
+  "name": "Joe Norris",
+  "age": 62,
+  "address": {
+    "street": "Cagit Point",
+    "city": "Igcohem",
+    "state": "KY",
+    "zip": "66525"
+  },
+  "contact": {
+    "phone": "(601) 286-3804",
+    "servicePhone": "800274287"
+  },
+  "birthday": "1984-11-12T22:33:50.360Z",
+  "ip": "15.104.197.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Niwo me acahe okbocwo woc hi zobe wohsu ga zuare vuratmu ulatupi lufovi sikhukar. Sasu cagdev jek vaffop uzanisor vulo mukobi fewmud vojil alojom hanza hiwub heme henage osebihu. Tel vaki hitto dafpukrug jowhi kurosi sej sam gepitsi asaur mosunjim soc urvuni gotjoh.",
+    "bio": "Ivi is jalramgu jepkec usgi jaz ije do bar cah ite vipwozip okeli. Fujah tu vavle na zuliso hututa foc gafedapif aruobu wu ho oniup cosvamfu osazavaw ezi woj. Lijab jokarih dedijvu isa picsosu iwofu ahahafu nircaico pupat hi asipirgo vifwub itu luj ceahkug. Labi buzozul fukmu topeh lal sib vizes ta hejwufuc pupod tewpazhib hor. Ovehiszi koplifav af dehed je maz wag kisanibo difetnu lahhiug gedoeb jec jagpiv az so gabnino zi te. Bedab lus zafijbuc taejeem upabo da muuvcer sadih zehowav amu racahze hufigeg eb tedwopav modeb kasak. Lifarik jobi cira licnewi giuz guc vu wosmur iluib ag un muv itu mac sircah ju lol sijaz."
+  },
+  "apiKey": "543a19115c84b3aaea037049fcfe464cde809712fcd14b9502b1554d565b8850",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
