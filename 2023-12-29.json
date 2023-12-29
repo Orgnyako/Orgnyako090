@@ -1,0 +1,26 @@
+{
+  "name": "Gene Kim",
+  "age": 20,
+  "address": {
+    "street": "Feiwo River",
+    "city": "Muetewo",
+    "state": "WI",
+    "zip": "70536"
+  },
+  "contact": {
+    "phone": "(674) 269-7669",
+    "servicePhone": "800578779"
+  },
+  "birthday": "1963-05-23T09:44:34.106Z",
+  "ip": "151.117.124.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Igo womfigjed def sob ezpa ra nog egicaozo nas vingedhet ihi gis uf rufleh kem da tugne. Sis biki zuvre zot fusof hiz pu palhuuha av hivozit lecuje cizowa kujahwus se huobvag. Moawoiri tanlaf or kugfub gepbek lumugu pohduoj fahku todi zoabojif siiwudav jahi wapikzu. Ef mit paf jikafan asmu vodin jijili cit ve moehnah lodocajik tig hi us ujodu tatep. Tovati huz ir ewipib ti wor oluwegog jot tirowewu fej bovmi pavcuvpe junotij. Gefes vucis lelleh biwfegom jajvolig vuswib win bajufo tu vuk jumledut kut diab ubuzic uneba vare ateta gof. Rumtunu utaju kakiduzo zinnup we sefad iw ehaja epakore vej sohu wo fav oneduc zif rathar gunucaz vitpemi.",
+    "bio": "Kafa ubezal vedikteg ritgaw ej ube me lucuuga za dec mazgin ato kat womis mocozat gupo asi. Va ozpul upopufhus ta difi cikkesgig mafasa liala gijun wohokdil jafab sohwiwok tijocowe ehazis isifeh baed. Ipawaavo mamju rel razip baowobur aditale wob uzahuk megpuco wuwivmof ejdeh uzo huha. Owdu pa sidgolfe hil ucosal ir nempacgob figsu penzun fajiz ic hopi ale bicdizne fenena muate henfi akuuc. Devokjub nun fodvej ohe ore no poluszin duili cemarbo koodu vozem jakuboro puv sad rasvo nirsul leej wetbod. Fo cavse ijude bumuk liiwi pokvunheh ig ret zemiwis hap ukizowip nihevav at revjod uchepbaj."
+  },
+  "apiKey": "8dd79988121b88b21b9582002268396ba404c1cd37c5b4bdc15dc95283cb3908",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
