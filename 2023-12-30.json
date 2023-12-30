@@ -1,0 +1,26 @@
+{
+  "name": "Caleb Price",
+  "age": 33,
+  "address": {
+    "street": "Legi Street",
+    "city": "Meedbor",
+    "state": "GA",
+    "zip": "87404"
+  },
+  "contact": {
+    "phone": "(367) 245-5275",
+    "servicePhone": "800975837"
+  },
+  "birthday": "1976-06-05T12:55:15.396Z",
+  "ip": "186.169.113.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Dor zujtalu se anicerse low pubenlu tasuoha awoup gafvi evibe utpijku araj ev. Gojutbe mawiw si omo leruv bacpo upabul sincigu vejiv iwaav podkima rev. Hav sem fobi hag ba kedu ijena med juhob lak tih sesal alorocje pitgeda baseg meh affubu jew. Ca tew hardeul ozutifap wikbegud jamas jaki dipnud abma zihuhrol ocefi tozbeh do. Detle mulire mufivbu ehet fezoh zompojoh gobihju luizto edbac himkuk loh hojoiva libca.",
+    "bio": "Gi kocate zapa jahrepi pot lurkud nafo of kilkec kev wosupeli egu epduvi. Tonum na bonfac nu kacwuh husseple ajumuwtoz oko cif le foeb avon nujdecsof. Ow vafen bikse gucuckez uzefezsu tutzi opipok udohi kibvuvhi nic vok seten."
+  },
+  "apiKey": "d3a3c492dd4bd52461b7d6427f6b3a3968bdc69eff3c8fb4c3d5b0bef7f4b78a",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
