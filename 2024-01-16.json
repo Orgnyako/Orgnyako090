@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Harper",
+  "age": 64,
+  "address": {
+    "street": "Bica Avenue",
+    "city": "Junagep",
+    "state": "MS",
+    "zip": "89513"
+  },
+  "contact": {
+    "phone": "(387) 355-2077",
+    "servicePhone": "800986859"
+  },
+  "birthday": "1997-07-06T02:31:40.551Z",
+  "ip": "137.46.159.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Atre lum urmihhu hof kusul inihop vim uwloica picra odebifnud buzuvle ce tare cigepopa biladi. Cerutte cef baoco noowige molecufu zasafo biira nietdig jehi vigute miwac ujap hajuma cuhom. Ozipuh nira uko gilala romnuje une ihucabsur oz senuse vem or uju wo nuti.",
+    "bio": "Ded ga micnojsi sehinke te wesagde irzaf udgo zehuwno tir akpov imuzunso infolo te mefsec ruvpafu. Za ti cepin ija jodgur weiw ewesolos upenajwi huijales ari ro eztaeja nen tolivep gepilvi kuhabim. Ogmot zosjog hulvuva cuson rug il pap ofudivzu ovda zuddosuho zok esa vohijub itekir usazakroz duvak zak. Sa mi ucenumni giviruw piro nume pup pi tut lic cib eg isazeg pig duha."
+  },
+  "apiKey": "c5376d43fd0fe4529dfbe728bd5b060cf979780e05effcd4ce959e8741f3cd96",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
