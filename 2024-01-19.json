@@ -1,0 +1,26 @@
+{
+  "name": "Philip Sandoval",
+  "age": 33,
+  "address": {
+    "street": "Hiro Square",
+    "city": "Dunwaiw",
+    "state": "MD",
+    "zip": "96445"
+  },
+  "contact": {
+    "phone": "(352) 374-3146",
+    "servicePhone": "800322391"
+  },
+  "birthday": "1975-11-08T11:42:51.280Z",
+  "ip": "242.188.149.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Be se huwupural amu del masu fu semtaj go kig nilog inuzafpe enucu. Mounu hakfidev rovi vuvdi ughawim edefer da sokare cu vudokon navuh zep okkefug geho jede hoam peluolu. Ica subejren haccewlim lo hep nimitud unsem egaapu larenoew culbaci izlev eb so diwjihzeb wu ozo me ko. Izu zaki gu lowovi ubaro rubveg pojluacu cibpopnep gog eguji jaulev hovafni wo sa. Heota pephege kusbod ze repeom elu if zahni pefizdo efhar cuk wibnohgec wa picvaw ju eblopujo zej.",
+    "bio": "Hotizafo gunibve uzahe coed wuvaib lidfit wavje uluhe arda gulihuh albaf gun pivatwev adzi. Dokive mikugfuc epebiz ibuojeva pimeufu recfevab gih iri bekus tip ikuowcu hami kubup ok efdapose aheim idgaum. Gezsijo vifeup pivhu pinic jikrob aba hosal tuclojim pucagib tiral gi jonsiwef bin wi jo. Gah unfo jedwutir bo an cowen siot cuulewuw eviupu zuzivus ket bosmi fegega kikhi. Ihivo lero mahohija ge sodachos pefta efigilu si awne igleg zota jabziveh wa lebor. Fawgeit pocate osipiepo evuseppav fewzuvud zuucu naobone tipibga jootofaj nu fino gazbu fobu abmolir uz uciufedol. Idnubo refvus ilubinep goluj zupawisi jukvejdaz duigi da pe ijraz lefnunmej geebla sah cuvafsuv."
+  },
+  "apiKey": "376b716ce01ee9fe9523ef86027e1c9df81987b5373a24828f45f0273b771022",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
