@@ -1,0 +1,26 @@
+{
+  "name": "Juan Fowler",
+  "age": 36,
+  "address": {
+    "street": "Nidsob Glen",
+    "city": "Cafemu",
+    "state": "LA",
+    "zip": "65334"
+  },
+  "contact": {
+    "phone": "(521) 327-3548",
+    "servicePhone": "800759815"
+  },
+  "birthday": "1972-03-26T20:23:24.931Z",
+  "ip": "1.156.222.229",
+  "foo": "bar",
+  "profile": {
+    "about": "No urewej jiwondu zefinhad avu mefva emimiw zewuvcuf umjudle cuvta miho veapi bojvic kevtar hide zujow juersih ni. Bivoda juhite lupwe to uwuak pedez azimopil la dijawa wubeon inlar careg wawco. Ibace umipode cal cedig sa ma do fudhu ozaepiko jucusi olemuter piovho kawdaog olobogizi la.",
+    "bio": "Dazahdet malcagat bupiora gollaf cabimhe nimnihhoz lebkij kev ta ki nu hofpop. Jikvupwuc biba zactinpe dac gazsol herisvi se fajepter owawumif ije ka miel im bosaw cilnejeg vukarse. Lavita new dupla nopsasag poera uborohbam loiviz ram iccu daw surodtis sip amizibo ne. Cotopa feevovaj ki ejaincuf ceb me ibazabil vabacap paguron juflan if afgev nuzujfac gawmij pu."
+  },
+  "apiKey": "a99c44c590b1f3f144444784b49478ac72213115ba7acae012968fd458c7efa9",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
