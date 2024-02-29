@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Phillips",
+  "age": 30,
+  "address": {
+    "street": "Urvek Street",
+    "city": "Eseidha",
+    "state": "KS",
+    "zip": "86152"
+  },
+  "contact": {
+    "phone": "(871) 454-3281",
+    "servicePhone": "800267182"
+  },
+  "birthday": "2002-01-10T14:48:01.329Z",
+  "ip": "149.153.178.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Jiheuri ag ka fele zap hospiv moemojed sat vu nihum sode az hur zesme lewbus biw aderaite togaj. Tafpeb onomube laljasol lo veri wat cakocoj ebdizugu woc icfi id lu gi sij ri rogos paruuco fojifizel. Elwonijo kuivaob dalvonufo jo uhwo savvog rerhahi iv obi mejno roecelu mo canum eb pecevwef az risbu uzen.",
+    "bio": "Tuj fejetkah ibenisa hose gezsa lenura unmunjew ehoami apni jo ulupef udbaglu noejo cugvadup. Weg cozmoim lizot gufib mahkic zo towrose top tec gejomip sep fudosi ju gidtopo piciv. Aneso reumohub he notneckik cimgig nawoka ulnesij bapopvod pozudi mih fiowusu ugpur."
+  },
+  "apiKey": "db702b793283123dd902591a0715e6afefabf1a6ca2725d51640ea8e28cd73c4",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
