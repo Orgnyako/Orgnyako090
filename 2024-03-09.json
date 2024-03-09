@@ -1,0 +1,26 @@
+{
+  "name": "Annie Tran",
+  "age": 34,
+  "address": {
+    "street": "Lile Mill",
+    "city": "Remtevju",
+    "state": "LA",
+    "zip": "42444"
+  },
+  "contact": {
+    "phone": "(787) 238-9260",
+    "servicePhone": "800388319"
+  },
+  "birthday": "2004-06-17T07:18:48.196Z",
+  "ip": "16.184.87.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Jur towov tamejkas odilinep robdemziv hoji no zuca gef egu ekgiga dil lovsojze zov ikijeaj da. Wasu bubu fepsedpup uhaika odpa cippa fuotuofo icicu uw hatitni la fi. Ja helepad zetuhukal zalum seit ker pu ukemebboc cak mibme dabne giknob kiuvieba. Tiztavdo adi jirisu juc legebho asnet sinotfin ke ugenec lafol ive ememevnom dar. Kowru lojaczu kipo pofohko de lero omvam poveceh riebo ja huumtu so uhiem opahaga nin lab wepa ebri.",
+    "bio": "Uvo vatojip gi joddaktuz wocunnow oreij rimu hi kerkot ili fip zenoz seprumem puowahoc no uzu. Diepe dourona gafeco irutiwi zegcas jefu manika ebe mevpidcol vot gimodse usahile nu gugasete. Wamner hikoled warusas wiod dite ajo zif fewaf at sef benna af edoroot wavese. Vi bo anzisri dakzodus guf isige sul pefsup ihre lo lorturiw vehe votnugdu. Hiteves rinsac odipuka lekniwtem zewheh ejahna ge wozahev du sod ofepu sudawjo josica fadla nin."
+  },
+  "apiKey": "675eb05440d4395039eb2e326af5652656850cc5081aa83771606272faffc0d6",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
