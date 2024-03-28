@@ -1,0 +1,26 @@
+{
+  "name": "Dale Hayes",
+  "age": 32,
+  "address": {
+    "street": "Isizu Turnpike",
+    "city": "Uvkucune",
+    "state": "WV",
+    "zip": "89893"
+  },
+  "contact": {
+    "phone": "(484) 645-5798",
+    "servicePhone": "800772161"
+  },
+  "birthday": "1977-05-18T01:10:09.528Z",
+  "ip": "10.148.208.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Siz ubdi wejo onudedi he atfi laroc apocugo boodeve heckij la fistarwiv. Dipfow napbizham jogzemtuc et risjosi ehusad jevewilaj tu celjo ozedaco cufu tifasun lewezji letpi risiloli eferepa awegegli lejocon. Ohuzi met ap feom bohraki vuiki cur keh huperu cepdikoji peemebu wepli guke ahe wuz. De cad galo cufu pobausi la coginuk ocasam gubno sihgeuse ta ife itevihed wizekafi naz gav geb.",
+    "bio": "Ni meboce ugzudloc fez ecapitpe of ogumeah toigfec viznar gohib jaal sohi sonu nidreomi nacfu boza. Vi dectifva uzpalmuz angurli donumu neweta comzewmom jiron depir dicijadet hihoh sugo vam uzezat iritumo. Bipkonsaz ri ne ri to mevorekac ne we menocez rifved ziihe fipligek siti dodlepaga cisegoh di kozep. Tu jumoh efugah dupdafur mupca luw hubacnip sudjeha zozgi mu vofrased nungo. Rolmuewo icahaz afi hecpatwo elsohba luro zuanli tucpanut pecwuvav guj to wo addisej to wumofe."
+  },
+  "apiKey": "c3531d6173846c354e7c5c7c55f9ee761c0b514979f4875758668b4edfdd60e6",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
