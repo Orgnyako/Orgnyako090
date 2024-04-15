@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Walton",
+  "age": 52,
+  "address": {
+    "street": "Soli Grove",
+    "city": "Lofecbes",
+    "state": "SD",
+    "zip": "37401"
+  },
+  "contact": {
+    "phone": "(440) 593-5009",
+    "servicePhone": "800892747"
+  },
+  "birthday": "1979-06-16T07:45:12.254Z",
+  "ip": "228.8.207.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Lokganigi cuni ew koca owna feh oc cedi lusuowu jup oghag vikcov ihavava enjeapi otriz atiluefo migtu bozne. Ro gighi namif aha julfu nuvci le badhur ropazoj mu zokocro ijvo geok. Betcig ezo cinjafda wobof zauk buh cef roafi emiwo alofe muj bejdu luecije vekiczi rib ke. Hovihec ak oko bevfu ij povoh wamba jope casbum izuuj laenzom vu inato bavah iclu zokepbir.",
+    "bio": "Wido rovdid japogas govar ancomvut dunitlon ifikoh vidsi mawro maaf beohaonu tamzod mudhupfer ni. Jirul nigki omamalsoj or zerze tecemonuk ledit hojnizval ti nazdogo cizen nisodeh taewcu wif. Zi si mif ga mehkiv lahdal natpu wecfuef bic jirrak jezul vi."
+  },
+  "apiKey": "53c82874800e396a21e6b9e792db9aed7348d743323f728a8d1ac0a440f56b76",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
